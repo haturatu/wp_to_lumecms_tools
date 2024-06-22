@@ -11,7 +11,7 @@ Please note that this process requires manual intervention and cannot be fully a
 python coverchange.py /your/dir
 ```
 
-If LumeCMS doesn't support thumbnails, lines like *coverImage: "Thisimage.jpg"* will be ignored. Therefore, images in the content should be displayed in Markdown format at the beginning of the line, like *![Thisimage.jpg](/uploads/Thisimage.jpg)*. Since the image directory in LumeCMS can vary by user, modify the relevant code accordingly. Afterwards, if the images are in a directory named "images" as shown below:
+If LumeCMS doesn't support thumbnails, lines like `coverImage: "Thisimage.jpg"` will be ignored. Therefore, images in the content should be displayed in Markdown format at the beginning of the line, like `![Thisimage.jpg](/uploads/Thisimage.jpg)`. Since the image directory in LumeCMS can vary by user, modify the relevant code accordingly. Afterwards, if the images are in a directory named "images" as shown below:
 
 ```
 ├── 遊びの仮想neofetch
