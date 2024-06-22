@@ -29,7 +29,7 @@ Do not delete the `*coverImage: "Thisimage.jpg"*` string as it appends the Markd
 
 ## transname.py
 ```
-python transname.py
+python transname.py /your/dir
 ```
 
 Use the Deep Translator ([Deep Translator](https://github.com/prataffel/deep_translator)) to translate directory names as follows:
